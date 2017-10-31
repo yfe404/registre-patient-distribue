@@ -1,0 +1,95 @@
+* Intro blockchain
+- https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/
+- https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093
+- https://bitcoin.org/bitcoin.pdf
+- https://github.com/ethereum/wiki/wiki/White-Paper
+- https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+- https://www.youtube.com/watch?v=cNvOQp8r0xo
+- https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf
+- https://www.kudelskisecurity.com/sites/default/files/files/kudelski_Security_blockchain_20161213.pdf
+- https://www.linkedin.com/pulse/gentle-introduction-immutability-blockchains-antony-lewis/
+- https://www.weforum.org/agenda/2017/07/four-reasons-to-question-the-hype-around-blockchain
+- http://www.goldmansachs.com/our-thinking/pages/blockchain/
+- http://chimera.labs.oreilly.com/books/1234000001802/ch07.html
+- https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy
+- https://hbr.org/2017/02/a-brief-history-of-blockchain
+- https://medium.com/@muneeb/the-next-wave-of-computing-743295b4bc73
+
+
+
+* IA dans le contexte du projet de registe patient
+https://www.oreilly.com/ideas/untapped-opportunities-in-ai
+* Blochain appliqué à la santé 
+- https://healthcareinamerica.us/storing-medical-records-on-the-ethereum-blockchain-e088f19c9fca
+- http://blockchainpartner.fr/ressources/
+- https://blockchainpartner.fr/wp-content/uploads/2017/06/Sant%c3%a9-Industrie-Pharmaceutique-Blockchain.pdf (alt: [[file:files/blockchain_healthcare/Sant%C3%A9-Industrie-Pharmaceutique-Blockchain.pdf][file:files/blockchain_healthcare/Santé-Industrie-Pharmaceutique-Blockchain.pdf]])
+- https://www.helloopenworld.com/protection-des-donnees-medicales-bienvenue-a-la-blockchain-638
+- http://www.theconnectedmag.fr/blockchain-nouveau-modele-securite-donnees-de-sante/
+- https://www.computerworld.com/article/3156504/healthcare-it/ibm-watson-fda-to-explore-blockchain-for-secure-patient-data-exchange.html
+- https://www.theverge.com/2017/3/10/14880094/deepmind-health-uk-data-blockchain-audit
+- https://blogs.dxc.technology/2017/01/03/blockchain-et-sante-de-nouveaux-usages-vertueux-envisageables-a-moyen-terme/
+- http://www.latribune.fr/opinions/tribunes/quelle-blockchain-pour-la-sante-588784.html
+- http://www.consilium.europa.eu/fr/policies/data-protection-reform/data-protection-regulation/
+- http://www.dsih.fr/article/1837/la-blockchain-a-t-elle-un-avenir-dans-la-sante.html
+- http://www.lemonde.fr/pixels/article/2016/07/11/la-blockchain-sort-de-la-sphere-financiere-pour-entrer-dans-l-industrie_4967797_4408996.html
+- http://www.finyear.com/Blockchain-l-uberisation-ultime-qui-atteint-la-sante_a36753.html
+- https://blockchainfrance.net/2015/09/28/blockchain_sante/
+- https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/
+- http://www.journaldunet.com/economie/sante/1182134-big-pharma-et-geants-tech-veulent-utiliser-la-blockchain-dans-l-e-sante/
+- http://www.latribune.fr/technos-medias/la-blockchain-redonne-le-pouvoir-aux-patients-face-aux-gafa-615243.html
+- http://www.ticsante.com/Sanofi-lance-une-grande-etude-de-telemedecine-sur-le-diabete-NS_1488.html
+- https://www.helloopenworld.com/lintelligence-artificielle-permet-dameliorer-diagnostics-medicaux-2681
+- http://www.ticpharma.com/story.php?tag=29&story=120
+- https://www.blockrx.com/
+- https://wiki.hyperledger.org/groups/healthcare/healthcare-wg
+
+* Market / Challenges
+- http://breachlevelindex.com/
+- https://letstalkpayments.com/22-companies-leveraging-blockchain-for-identity-management-and-authentication/
+- https://www.weforum.org/reports/the-global-risks-report-2016
+- https://www.weforum.org/agenda/archive/blockchain
+- https://www.weforum.org/agenda/2017/10/the-us-centres-for-disease-control-wants-to-use-blockchain-to-prevent-future-deadly-epidemics
+- https://www.ted.com/talks/jen_brea_what_happens_when_you_have_a_disease_doctors_can_t_diagnose?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=science
+- http://www.oreilly.com/data/free/files/ai-and-medicine.pdf (alt: [[file:files/blockchain_healthcare/ai-and-medicine.pdf]])
+- http://www.oreilly.com/data/free/files/the-business-of-genomic-data.pdf (alt: [[file:files/blockchain_healthcare/the-business-of-genomic-data.pdf]])
+
+
+
+
+** From edX course on HyperLedger 
+
+A number of multi-party processes in the healthcare industry can leverage distributed ledger technology. By streamlining these multi-party
+ processes, the healthcare industry can reduce the time and expense of collecting and verifying multiple pieces of information in order
+ to deliver quality care to patients. Healthcare providers and insurance companies have begun to explore how blockchain can improve the
+ delivery of patient care.
+
+In 2015, the US spent 27.42% of the federal budget, or $1.05 trillion, on healthcare ([[https://www.nationalpriorities.org/budget-basics/federal-budget-101/spending/][National Priorities Project]]
+). Because these costs are so high, the US government, in particular, [[https://search.usa.gov/search?utf8%3D%25E2%259C%2593&affiliate%3Dhealthit.gov&query%3Dblockchain&commit%3DSearch][has invested resources]] into healthcare blockchain technology. The [[https://www.healthit.gov/][Office
+ of National Coordinator for Health Information Technology]] (ONC) is responsible for health information technology. It has recognized a need for
+ nationwide interoperability and standards for electronic health records, claims processing, and verification of provider credentials. To that end, it has
+ sponsored many government blockchain initiatives in healthcare.
+
+The healthcare industry has already placed medical insurance enrollment information on blockchain for verification, and plans to incorporate many other
+ aspects of medical insurance claims processing on blockchain. One cost borne by health insurance providers is auditing care providers. Health
+ insurance providers must verify whether a practitioner actually delivered the care that he or she was obliged to deliver to
+ the patient. Health insurance providers must also audit the financial aspects incurred as part of this care, to ensure that
+ care was paid, and the charges were accurate. Tying the care auditability with the payment auditability provides a key advantage
+ to reducing the potential for fraud.
+
+
+The healthcare industry has examined placing prescription drug fulfillment processes on blockchain since they involve gathering and checking information from
+ many sources. Insurance benefits investigation eligibility checks are performed to see if insurance will pay. Prior authorization and step therapy
+ requirements are checked to see if a patient is able to receive a particular drug, or if other drugs are
+ preferred. Formulary checks, patients’ assistance checks, and pharmacy stock checks must all be performed. The healthcare industry has also used
+ DLT to handle online identity management, by uploading verified pieces of a healthcare professional’s credentials for license verification.
+
+#+CAPTION: By [[https://www.blockrx.com/][The BlockRx Project]], retrieved from the [[https://wiki.hyperledger.org/groups/healthcare/healthcare-wg][Hyperledger Healthcare Working Group, August 22nd, 2017 Meeting]]
+#+NAME: fig: The_BlockRx_Pharma_Ecosystem
+[[file:files/blockchain_healthcare/The_BlockRx_Pharma_Ecosystem.png]]
+
+
+
+
+
+
+
