@@ -54,10 +54,10 @@ https://www.oreilly.com/ideas/untapped-opportunities-in-ai
 - http://www.oreilly.com/data/free/files/the-business-of-genomic-data.pdf (alt: [[file:files/blockchain_healthcare/the-business-of-genomic-data.pdf]])
 
 * Dossier médical partagé
--https://mondmp3.dmp.gouv.fr/login;jsessionid=6FB787B030A1E43E28B75CB4B539241A
--https://www.service-public.fr/particuliers/vosdroits/F10872
--https://www.mag-securs.com/dossiers/id/28921/dossier-medical-personnel-la-securite-des-donnees-personnelles-de-sante.aspx
--http://information.tv5monde.com/info/carnet-de-sante-numerique-un-progres-risque-115479
+- https://mondmp3.dmp.gouv.fr/login;jsessionid=6FB787B030A1E43E28B75CB4B539241A
+- https://www.service-public.fr/particuliers/vosdroits/F10872
+- https://www.mag-securs.com/dossiers/id/28921/dossier-medical-personnel-la-securite-des-donnees-personnelles-de-sante.aspx
+- http://information.tv5monde.com/info/carnet-de-sante-numerique-un-progres-risque-115479
 
 
 ** From edX course on HyperLedger 
