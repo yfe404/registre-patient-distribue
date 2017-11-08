@@ -14,7 +14,7 @@
 - https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy
 - https://hbr.org/2017/02/a-brief-history-of-blockchain
 - https://medium.com/@muneeb/the-next-wave-of-computing-743295b4bc73
-
+- [[https://hyperledger.org/blog/2017/11/06/video-hyperledger-a-greenhouse-incubator-for-blockchain-projects][Ecosystème Hyperledger]]
 
 
 * IA dans le contexte du projet de registe patient
@@ -93,3 +93,5 @@ The healthcare industry has examined placing prescription drug fulfillment proce
 
 
 
+* Autres 
+- [[https://www.bitclave.com/en/?utm_source%3Dfacebook&utm_medium%3Dcpa&utm_campaign%3DG1%2B%2528GER%2BFRA%2BAU%2BSW%2BNED%2529%2BRegistrations][Decentralized Search Engine ]] (ce qui est intéressant ici c'est la manière dont ils monétisent les données des utilisateurs, peut être une piste à explorer)
