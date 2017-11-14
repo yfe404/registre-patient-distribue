@@ -18,7 +18,7 @@
 
 * How to protect your identity with a Blockchain
 - https://www.forbes.com/sites/jonathanchester/2017/03/03/how-the-blockchain-will-secure-your-online-identity/#27a9aef25523
-*- https://www.enigma.co/ZNP15.pdf*
+- *https://www.enigma.co/ZNP15.pdf*
 - https://www.civic.com/
 - https://steemit.com/cryptocurrency/@sirwinchester/civic-blockchain-based-identity-theft-platform-or-cvc-token-surges-176-in-1-week
 
