@@ -17,11 +17,10 @@
 - [[https://hyperledger.org/blog/2017/11/06/video-hyperledger-a-greenhouse-incubator-for-blockchain-projects][Ecosystème Hyperledger]]
 
 * How to protect your identity with a Blockchain
--https://www.forbes.com/sites/jonathanchester/2017/03/03/how-the-blockchain-will-secure-your-online-identity/#27a9aef25523
-*-https://www.enigma.co/ZNP15.pdf*
-
--https://www.civic.com/
--https://steemit.com/cryptocurrency/@sirwinchester/civic-blockchain-based-identity-theft-platform-or-cvc-token-surges-176-in-1-week
+- https://www.forbes.com/sites/jonathanchester/2017/03/03/how-the-blockchain-will-secure-your-online-identity/#27a9aef25523
+*- https://www.enigma.co/ZNP15.pdf*
+- https://www.civic.com/
+- https://steemit.com/cryptocurrency/@sirwinchester/civic-blockchain-based-identity-theft-platform-or-cvc-token-surges-176-in-1-week
 
 * IA dans le contexte du projet de registe patient
 https://www.oreilly.com/ideas/untapped-opportunities-in-ai
