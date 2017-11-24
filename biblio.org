@@ -1,5 +1,5 @@
 * Intro blockchain
-- https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/
+- *https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/*
 - https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093
 - https://bitcoin.org/bitcoin.pdf
 - https://github.com/ethereum/wiki/wiki/White-Paper
@@ -27,21 +27,22 @@ https://www.oreilly.com/ideas/untapped-opportunities-in-ai
 * Blochain appliqué à la santé 
 - https://healthcareinamerica.us/storing-medical-records-on-the-ethereum-blockchain-e088f19c9fca
 - http://blockchainpartner.fr/ressources/
-- https://blockchainpartner.fr/wp-content/uploads/2017/06/Sant%c3%a9-Industrie-Pharmaceutique-Blockchain.pdf (alt: [[file:files/blockchain_healthcare/Sant%C3%A9-Industrie-Pharmaceutique-Blockchain.pdf][file:files/blockchain_healthcare/Santé-Industrie-Pharmaceutique-Blockchain.pdf]])
+- *https://blockchainpartner.fr/wp-content/uploads/2017/06/Sant%c3%a9-Industrie-Pharmaceutique-Blockchain.pdf* (alt: [[file:files/blockchain_healthcare/Sant%C3%A9-Industrie-Pharmaceutique-Blockchain.pdf][file:files/blockchain_healthcare/Santé-Industrie-Pharmaceutique-Blockchain.pdf]])
+- *[[https://www.digilugu.ee/login%3Bjsessionid%3DE75D76F97C7E9ECF94015A1323CD7A76?locale%3Den][Solution existante en Estonie]]*
 - https://www.helloopenworld.com/protection-des-donnees-medicales-bienvenue-a-la-blockchain-638
 - http://www.theconnectedmag.fr/blockchain-nouveau-modele-securite-donnees-de-sante/
 - https://www.computerworld.com/article/3156504/healthcare-it/ibm-watson-fda-to-explore-blockchain-for-secure-patient-data-exchange.html
 - https://www.theverge.com/2017/3/10/14880094/deepmind-health-uk-data-blockchain-audit
-- https://blogs.dxc.technology/2017/01/03/blockchain-et-sante-de-nouveaux-usages-vertueux-envisageables-a-moyen-terme/
-- http://www.latribune.fr/opinions/tribunes/quelle-blockchain-pour-la-sante-588784.html
+- *https://blogs.dxc.technology/2017/01/03/blockchain-et-sante-de-nouveaux-usages-vertueux-envisageables-a-moyen-terme/*
+- *http://www.latribune.fr/opinions/tribunes/quelle-blockchain-pour-la-sante-588784.html*
 - http://www.consilium.europa.eu/fr/policies/data-protection-reform/data-protection-regulation/
-- http://www.dsih.fr/article/1837/la-blockchain-a-t-elle-un-avenir-dans-la-sante.html
+- *http://www.dsih.fr/article/1837/la-blockchain-a-t-elle-un-avenir-dans-la-sante.html*
 - http://www.lemonde.fr/pixels/article/2016/07/11/la-blockchain-sort-de-la-sphere-financiere-pour-entrer-dans-l-industrie_4967797_4408996.html
-- http://www.finyear.com/Blockchain-l-uberisation-ultime-qui-atteint-la-sante_a36753.html
-- https://blockchainfrance.net/2015/09/28/blockchain_sante/
+- *http://www.finyear.com/Blockchain-l-uberisation-ultime-qui-atteint-la-sante_a36753.html*
+- *https://blockchainfrance.net/2015/09/28/blockchain_sante/*
 - https://blockchainfrance.net/2016/03/02/la-blockchain-et-la-sante/
-- http://www.journaldunet.com/economie/sante/1182134-big-pharma-et-geants-tech-veulent-utiliser-la-blockchain-dans-l-e-sante/
-- http://www.latribune.fr/technos-medias/la-blockchain-redonne-le-pouvoir-aux-patients-face-aux-gafa-615243.html
+- *http://www.journaldunet.com/economie/sante/1182134-big-pharma-et-geants-tech-veulent-utiliser-la-blockchain-dans-l-e-sante/*
+- *http://www.latribune.fr/technos-medias/la-blockchain-redonne-le-pouvoir-aux-patients-face-aux-gafa-615243.html*
 - http://www.ticsante.com/Sanofi-lance-une-grande-etude-de-telemedecine-sur-le-diabete-NS_1488.html
 - https://www.helloopenworld.com/lintelligence-artificielle-permet-dameliorer-diagnostics-medicaux-2681
 - http://www.ticpharma.com/story.php?tag=29&story=120
@@ -60,10 +61,16 @@ https://www.oreilly.com/ideas/untapped-opportunities-in-ai
 
 * Dossier médical partagé
 - https://mondmp3.dmp.gouv.fr/login;jsessionid=6FB787B030A1E43E28B75CB4B539241A
-- https://www.service-public.fr/particuliers/vosdroits/F10872
-- https://www.mag-securs.com/dossiers/id/28921/dossier-medical-personnel-la-securite-des-donnees-personnelles-de-sante.aspx
-- http://information.tv5monde.com/info/carnet-de-sante-numerique-un-progres-risque-115479
+- *https://www.service-public.fr/particuliers/vosdroits/F10872*
+- *https://www.mag-securs.com/dossiers/id/28921/dossier-medical-personnel-la-securite-des-donnees-personnelles-de-sante.aspx*
+- *http://information.tv5monde.com/info/carnet-de-sante-numerique-un-progres-risque-115479*
+* Enjeux juridiques de la blockchain
+- *[[https://blockchainpartner.fr/wp-content/uploads/2017/06/Enjeux-juridiques-de-la-blockchain-Etude-Blockchain-Partner.pdf][Panorama des enjeux juridiques de la blockchain]]* or [[file:files/Enjeux-juridiques-de-la-blockchain-Etude-Blockchain-Partner.pdf][Fichier PDF]]
 
+
+
+* Autres 
+- [[https://www.bitclave.com/en/?utm_source%3Dfacebook&utm_medium%3Dcpa&utm_campaign%3DG1%2B%2528GER%2BFRA%2BAU%2BSW%2BNED%2529%2BRegistrations][Decentralized Search Engine ]] (ce qui est intéressant ici c'est la manière dont ils monétisent les données des utilisateurs, peut être une piste à explorer)
 
 ** From edX course on HyperLedger 
 
@@ -100,7 +107,3 @@ The healthcare industry has examined placing prescription drug fulfillment proce
 
 
 
-
-
-* Autres 
-- [[https://www.bitclave.com/en/?utm_source%3Dfacebook&utm_medium%3Dcpa&utm_campaign%3DG1%2B%2528GER%2BFRA%2BAU%2BSW%2BNED%2529%2BRegistrations][Decentralized Search Engine ]] (ce qui est intéressant ici c'est la manière dont ils monétisent les données des utilisateurs, peut être une piste à explorer)
